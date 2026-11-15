@@ -1,0 +1,3 @@
+id,level,jurisdiction,tax,base,rate,applies_to,recipient,effective_from,source_title,source_url,verified_on,status
+US-FUEL-GAS,federal,United States,Gasoline excise (18.3 + 0.1 LUST),per_gallon,0.184,gasoline,Highway Trust Fund; LUST Trust Fund,1997-10-01,2026 Federal Motor Fuel Excise Tax Rates (EMA),https://www.energymarketersofamerica.org/weeklyreview/attachments/EMA_2026_Federal_Motor_Fuel_Excise_Tax_010926.pdf,2026-11-15,V
+US-FUEL-DSL,federal,United States,Diesel excise (24.3 + 0.1 LUST),per_gallon,0.244,diesel,Highway Trust Fund; LUST Trust Fund,1997-10-01,2026 Federal Motor Fuel Excise Tax Rates (EMA),https://www.energymarketersofamerica.org/weeklyreview/attachments/EMA_2026_Federal_Motor_Fuel_Excise_Tax_010926.pdf,2026-11-15,V
